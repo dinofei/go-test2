@@ -1,4 +1,4 @@
-package go-test2
+package test2
 
 import "fmt"
 
